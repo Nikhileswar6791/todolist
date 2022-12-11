@@ -1,0 +1,9 @@
+html {
+  background-image: -webkit-linear-gradient(65deg,#fa0068  50%,yellow 50%);
+  min-height: 1000px;
+  font-family: 'helvetica neue';
+}
+.navbar-custom{
+ background-color: yellow;
+ padding:0;
+}
